@@ -13,6 +13,7 @@ This project uses the following:
 3. javascript
 4. data from the MBTA API
 5. A license from Mapbox, embedded in the javascript code
+6. An MIT license
 
 Several improvements may be made to this project, including:
 
