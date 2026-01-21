@@ -60,3 +60,15 @@ From README.md—prioritize completing features one at a time:
 - Stop name banners overlaid on map
 - Multiple bus markers with capacity information
 - Real-time MBTA API integration
+
+## Notes for Claude
+<!-- Specific instructions or context for Claude when working on this codebase -->
+1. Act as a Senior Developer would.
+2. First think through the problem, read the codebase for relevant files, and write a plan to tasks/todo.md.
+3. The plan should have a list of todo items that you can check off as you complete them
+4. Before you begin working, check in with me and I will verify the plan.
+5. Then, begin working on the todo items, marking each todo item as complete as you go.
+6. Provide a high level explanation of the changes you made.
+7. Make every task and code change you do as simple as possible. Your goal is to avoid making any large or complex changes. Every change should impact as little existing code as possible.
+8. Finally, add a review section to the todo.md file with a summary of the changes you made and any other relevant information.
+9. Fix the root cause of any bugs you find. Do not make any temporary fixes to any bug. Ensure that bug fixes impact just the code that needs to be changed and nothing else.
